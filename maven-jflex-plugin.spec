@@ -1,6 +1,6 @@
 Name:           maven-jflex-plugin
 Version:        1.4.3
-Release:        4
+Release:        6
 Summary:        Maven JFlex Plugin
 
 Group:          Development/Java
