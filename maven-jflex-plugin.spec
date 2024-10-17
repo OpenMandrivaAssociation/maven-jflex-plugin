@@ -5,7 +5,7 @@ Summary:        Maven JFlex Plugin
 
 Group:          Development/Java
 License:        GPLv3+
-URL:            http://jflex.sourceforge.net/maven-jflex-plugin/
+URL:            https://jflex.sourceforge.net/maven-jflex-plugin/
 # Created by
 # svn export http://jflex.svn.sourceforge.net/svnroot/jflex/tags/release_1_4_3/maven-jflex-plugin maven-jflex-plugin-1.4.3
 # tar cjf maven-jflex-plugin-1.4.3.tar.bz2 maven-jflex-plugin-1.4.3/
